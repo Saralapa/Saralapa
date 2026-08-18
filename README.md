@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:A371F7&height=220&section=header&text=Gabriel%20Schmitt%20Teixeira&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20%C2%B7%20Automation%20%26%20RPA&descSize=18&descAlignY=56&animation=twinkling" alt="Gabriel Schmitt Teixeira" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:A371F7&height=220&section=header&text=Gabriel%20Schmitt%20Teixeira&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20%C2%B7%20Automation%20%26%20RPA&descSize=18&descAlignY=56&animation=twinkling" alt="Gabriel Schmitt Teixeira" /> -->
 
 <a href="https://github.com/Saralapa">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=1F6FEB&center=true&vCenter=true&width=680&lines=RPA+Developer+%40+Cresol+Pioneira;UiPath+%C2%B7+VB.NET+%C2%B7+C%23+%C2%B7+Python;I+make+computers+do+the+boring+parts" alt="Typing intro" />
