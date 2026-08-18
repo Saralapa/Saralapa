@@ -39,8 +39,7 @@ speaks:    [Portuguese (native), English (C1), Spanish (B1), German (A1)]
 - ⚙️ Built a **custom UiPath orchestrator** (PowerShell + PostgreSQL +
   Orchestrator API) that manages queues, schedules and machine availability —
   cutting license consumption while running more processes in parallel.
-- 📊 I also build reports and dashboards in **Qlik**, Excel and Google Apps
-  Script, and play with **ML in Python** on the side.
+- 📊 I also build reports and dashboards in Qlik, Excel and Google Apps Script, and train ML models in Python.
 - 🎮 Most of my public repos are automations I wrote for fun — games, Spotify,
   and my own desktop.
 
