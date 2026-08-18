@@ -29,7 +29,7 @@
 name:      Gabriel Schmitt Teixeira
 role:      RPA Developer @ Cresol Pioneira      # since June 2025
 studying:  Software Engineering @ UTFPR         # Dois Vizinhos - PR, class of 2027
-building:  UiPath robots in VB.NET & C#, REST integrations, PostgreSQL
+building:  UiPath robots in VB.NET & C#, REST API, PostgreSQL
 also into: data analysis, machine learning, BI
 speaks:    [Portuguese (native), English (C1), Spanish (B1), German (A1)]
 ```
