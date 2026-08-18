@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Gabriel%20Schmitt%20Teixeira&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20Student%20%C2%B7%20Automation%20%26%20RPA%20Developer&descSize=16&descAlignY=58&animation=fadeIn" alt="Gabriel Schmitt Teixeira" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:A371F7&height=220&section=header&text=Gabriel%20Schmitt%20Teixeira&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineering%20%C2%B7%20Automation%20%26%20RPA&descSize=18&descAlignY=56&animation=twinkling" alt="Gabriel Schmitt Teixeira" />
 
 <a href="https://github.com/Saralapa">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=1F6FEB&center=true&vCenter=true&width=620&lines=RPA+Developer+%40+Cresol+Pioneira;UiPath+%C2%B7+VB.NET+%C2%B7+C%23+%C2%B7+Python;I+make+computers+do+the+boring+parts" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=1F6FEB&center=true&vCenter=true&width=680&lines=RPA+Developer+%40+Cresol+Pioneira;UiPath+%C2%B7+VB.NET+%C2%B7+C%23+%C2%B7+Python;I+make+computers+do+the+boring+parts" alt="Typing intro" />
 </a>
 
-<br />
+<br /><br />
 
 <a href="https://www.linkedin.com/in/gabriel-schmitt-teixeira/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -17,28 +17,40 @@
 <a href="https://github.com/Saralapa?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=Saralapa&style=for-the-badge&color=A371F7&label=VISITORS" alt="Profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:A371F7&height=3" width="100%" alt="" />
 
 </div>
 
----
+## 🚀 About me
 
-## About me
+```yaml
+name:      Gabriel Schmitt Teixeira
+role:      RPA Developer @ Cresol Pioneira      # since June 2025
+studying:  Software Engineering @ UTFPR         # Dois Vizinhos - PR, class of 2027
+building:  UiPath robots in VB.NET & C#, REST integrations, PostgreSQL
+also into: data analysis, machine learning, BI
+speaks:    [Portuguese (native), English (C1), Spanish (B1), German (A1)]
+```
 
-- **Software Engineering** undergrad at **UTFPR** (Universidade Tecnológica
-  Federal do Paraná), Dois Vizinhos — Brazil, class of 2027.
-- **RPA Developer intern at Cresol Pioneira** since June 2025, building
-  automations in **UiPath with VB.NET and C#**, integrating systems through REST
-  APIs and managing the PostgreSQL side of it.
-- Built a **custom UiPath orchestrator** — PowerShell + PostgreSQL + Orchestrator
-  API — that manages queues, schedules and machine availability to cut license
-  consumption and keep more processes running in parallel.
-- Also into **data analysis, machine learning and BI** (Qlik, Excel, Python, R).
-- Languages: **Portuguese** (native) · **English** (C1) · **Spanish** (B1) ·
-  **German** (A1).
+- 🤖 I automate processes end to end — **UiPath with VB.NET and C#**, system
+  integration through **REST APIs**, and the **PostgreSQL** layer underneath.
+- ⚙️ Built a **custom UiPath orchestrator** (PowerShell + PostgreSQL +
+  Orchestrator API) that manages queues, schedules and machine availability —
+  cutting license consumption while running more processes in parallel.
+- 📊 I also build reports and dashboards in **Qlik**, Excel and Google Apps
+  Script, and play with **ML in Python** on the side.
+- 🎮 Most of my public repos are automations I wrote for fun — games, Spotify,
+  and my own desktop.
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:A371F7&height=3" width="100%" alt="" />
+</div>
 
-## Tech stack
+## 🛠️ Tech stack
+
+<div align="center">
 
 **Automation & RPA**
 
@@ -81,27 +93,31 @@
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:A371F7&height=3" width="100%" alt="" />
 
-## Featured projects
+</div>
+
+## 📌 Featured projects
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| **[Save Spotify Playlists By Genre](https://github.com/Saralapa/Save-Spotify-Playlists-By-Genre)** | Splits a master Spotify playlist into one playlist per genre, end to end. | ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white) ![JS](https://img.shields.io/badge/Spicetify-1ED760?style=flat-square&logo=spotify&logoColor=white) |
-| **[UiPath Postgres Lib](https://github.com/Saralapa/UiPath-postgres-lib)** | Reusable library that runs SQL scripts, single or bulk, from any UiPath automation. | ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **[Credit Score Prediction](https://github.com/Saralapa/Predict-Clients-Credit-Score-with-AI-Artificial-Intelligence)** | Classifies client credit scores from tabular data, from cleaning to trained model. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
-| **[League Lobby Clicker](https://github.com/Saralapa/League-Lobby-Clicker)** | Desktop app that picks your queue and role, then finds and auto-accepts the match for you. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Automation](https://img.shields.io/badge/GUI%20Automation-5C3EE8?style=flat-square&logo=windows&logoColor=white) |
-| **[Spicetify Double Play](https://github.com/Saralapa/spicetify-double-play)** | Spotify client extension that repeats each track exactly once before moving on. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **[🎵 Save Spotify Playlists By Genre](https://github.com/Saralapa/Save-Spotify-Playlists-By-Genre)** | Splits a master Spotify playlist into one playlist per genre, end to end. | ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white) ![Spicetify](https://img.shields.io/badge/Spicetify-1ED760?style=flat-square&logo=spotify&logoColor=white) |
+| **[🗄️ UiPath Postgres Lib](https://github.com/Saralapa/UiPath-postgres-lib)** | Reusable library that runs SQL scripts, single or bulk, from any UiPath automation. | ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **[🧠 Credit Score Prediction](https://github.com/Saralapa/Predict-Clients-Credit-Score-with-AI-Artificial-Intelligence)** | Classifies client credit scores from tabular data, from cleaning to trained model. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **[🃏 Finding Cards Balatro](https://github.com/Saralapa/Finding-Cards-Balatro)** | Balatro mod that auto-rerolls the shop until the cards you searched for show up. | ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) ![Steamodded](https://img.shields.io/badge/Steamodded-000000?style=flat-square&logo=steam&logoColor=white) |
+| **[🎮 League Lobby Clicker](https://github.com/Saralapa/League-Lobby-Clicker)** | Desktop app that picks your queue and role, then finds and auto-accepts the match. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![GUI Automation](https://img.shields.io/badge/GUI%20Automation-5C3EE8?style=flat-square&logo=windows&logoColor=white) |
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:A371F7&height=3" width="100%" alt="" />
+</div>
 
-## GitHub stats
+## 📈 GitHub activity
 
 <div align="center">
 
@@ -111,18 +127,22 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Saralapa&hide_border=true&theme=github-dark" />
-  <img src="https://streak-stats.demolab.com?user=Saralapa&hide_border=true&theme=default" alt="Contribution streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Saralapa&hide_border=true&theme=github-dark&border_radius=8" />
+  <img src="https://streak-stats.demolab.com?user=Saralapa&hide_border=true&theme=default&border_radius=8" alt="Contribution streak" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Saralapa&theme=github-compact&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saralapa&theme=github-light&hide_border=true&area=true" alt="Contribution activity graph" />
+</picture>
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saralapa/Saralapa/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Saralapa/Saralapa/output/github-snake.svg" alt="Snake eating my contribution grid" />
 </picture>
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Saralapa&style=flat-square&color=1F6FEB&label=Profile+views" alt="Profile views" />
-
-<sub>Automate the boring parts. Keep the interesting ones.</sub>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A371F7,50:1F6FEB,100:0D1117&height=140&section=footer&text=Automate%20the%20boring%20parts&fontSize=20&fontColor=FFFFFF&fontAlignY=72&animation=twinkling" width="100%" alt="" />
