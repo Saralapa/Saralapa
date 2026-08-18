@@ -70,64 +70,13 @@
 
 ## Featured projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Saralapa/Save-Spotify-Playlists-By-Genre">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Saralapa&repo=Save-Spotify-Playlists-By-Genre&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saralapa&repo=Save-Spotify-Playlists-By-Genre&theme=default&hide_border=true" alt="Save Spotify Playlists By Genre" />
-  </picture>
-</a>
-
-Splits a master Spotify playlist into genre playlists — a UiPath robot driving a
-custom Spicetify extension.
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Saralapa/UiPath-postgres-lib">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Saralapa&repo=UiPath-postgres-lib&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saralapa&repo=UiPath-postgres-lib&theme=default&hide_border=true" alt="UiPath Postgres Lib" />
-  </picture>
-</a>
-
-Reusable UiPath library for running SQL scripts (single and bulk) against
-PostgreSQL from any automation.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Saralapa/Predict-Clients-Credit-Score-with-AI-Artificial-Intelligence">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Saralapa&repo=Predict-Clients-Credit-Score-with-AI-Artificial-Intelligence&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saralapa&repo=Predict-Clients-Credit-Score-with-AI-Artificial-Intelligence&theme=default&hide_border=true" alt="Credit Score Prediction" />
-  </picture>
-</a>
-
-Machine learning model that classifies client credit scores from tabular data,
-built with scikit-learn in Jupyter.
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/Saralapa/League-Lobby-Clicker">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Saralapa&repo=League-Lobby-Clicker&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saralapa&repo=League-Lobby-Clicker&theme=default&hide_border=true" alt="League Lobby Clicker" />
-  </picture>
-</a>
-
-Python bot that watches the screen and accepts League of Legends matches on
-sight — image recognition, no game hooks.
-
-</td>
-</tr>
-</table>
+| Project | What it does | Built with |
+| --- | --- | --- |
+| **[Save Spotify Playlists By Genre](https://github.com/Saralapa/Save-Spotify-Playlists-By-Genre)** | Splits a master Spotify playlist into one playlist per genre, end to end. | ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white) ![JS](https://img.shields.io/badge/Spicetify-1ED760?style=flat-square&logo=spotify&logoColor=white) |
+| **[UiPath Postgres Lib](https://github.com/Saralapa/UiPath-postgres-lib)** | Reusable library that runs SQL scripts, single or bulk, from any UiPath automation. | ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **[Credit Score Prediction](https://github.com/Saralapa/Predict-Clients-Credit-Score-with-AI-Artificial-Intelligence)** | Classifies client credit scores from tabular data, from cleaning to trained model. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **[League Lobby Clicker](https://github.com/Saralapa/League-Lobby-Clicker)** | Watches the screen and accepts League of Legends matches on sight, no game hooks. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **[Spicetify Double Play](https://github.com/Saralapa/spicetify-double-play)** | Spotify client extension that repeats each track exactly once before moving on. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ---
 
@@ -136,12 +85,13 @@ sight — image recognition, no game hooks.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Saralapa&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&hide=contribs" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Saralapa&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true&hide=contribs" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saralapa&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saralapa&theme=default" alt="Profile summary" />
 </picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Saralapa&hide_border=true&theme=github-dark" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Saralapa&hide_border=true&theme=default" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=Saralapa&hide_border=true&theme=default" alt="Contribution streak" />
 </picture>
 
 </div>
