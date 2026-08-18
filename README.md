@@ -139,8 +139,8 @@ speaks:    [Portuguese (native), English (C1), Spanish (B1), German (A1)]
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saralapa/Saralapa/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Saralapa/Saralapa/output/github-snake.svg" alt="Snake eating my contribution grid" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saralapa/Saralapa/refs/heads/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Saralapa/Saralapa/refs/heads/output/github-snake.svg" alt="Snake eating my contribution grid" />
 </picture>
 
 </div>
