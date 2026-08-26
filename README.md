@@ -116,32 +116,6 @@ speaks:    [Portuguese (native), English (C1), Spanish (B1), German (A1)]
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:A371F7&height=3" width="100%" alt="" />
 </div>
 
-## 📈 GitHub activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saralapa&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saralapa&theme=default" alt="Profile summary" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Saralapa&hide_border=true&theme=github-dark&border_radius=8" />
-  <img src="https://streak-stats.demolab.com?user=Saralapa&hide_border=true&theme=default&border_radius=8" alt="Contribution streak" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Saralapa&theme=github-compact&hide_border=true&area=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saralapa&theme=github-light&hide_border=true&area=true" alt="Contribution activity graph" />
-</picture>
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saralapa/Saralapa/refs/heads/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Saralapa/Saralapa/refs/heads/output/github-snake.svg" alt="Snake eating my contribution grid" />
-</picture>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A371F7,50:1F6FEB,100:0D1117&height=140&section=footer&text=Automate%20the%20boring%20parts&fontSize=20&fontColor=FFFFFF&fontAlignY=72&animation=twinkling" width="100%" alt="" />
